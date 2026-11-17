@@ -1,22 +1,24 @@
-# My JavaScript Challenge
+# Personal Basic JavaScript Challenge
 
-A personal JavaScript challenge designed to test and improve my knowledge.
+Challenge tentang dasar-dasar JavaScript untuk mengetest pengetahuan sendiri
 
 ## Contents
 
-- Basic syntax and fundamentals
-- Arrays and objects
-- Functions and scope
-- ES6+ features
-- Algorithms and problem solving
+- Syntax dan fundamental dasar
+- Arrays dan objects
+- Functions dan scope
+- Feature modern (ES6+)
+- Algoritma dan problem solving
 
-## Getting Started
+## Chapters
 
-1. Open the project folder.
-2. Read each challenge carefully.
-3. Write and test your solutions in JavaScript.
-4. Compare your results with expected outputs.
-
-## Goal
-
-Test and strengthen my JavaScript knowledge by solving progressively challenging problems.
+1. JavaScript Dasar
+2. Variabel
+3. Data Types
+4. Operator
+5. Conditional Statements
+6. Looping
+7. Functions
+8. Array
+9. Array built-in method
+10. Object
